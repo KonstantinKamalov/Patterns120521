@@ -18,7 +18,7 @@ public class ProgramLogger {
         logFile += logInfo + "\n";
     }
 
-    public void showLogFile(){
+    public void showLogFile() {
         System.out.println(logFile);
     }
 }
