@@ -8,5 +8,5 @@ public class ProgramRunner {
         ProgramLogger.getProgramLogger().addLogInfo("string3");
 
         ProgramLogger.getProgramLogger().showLogFile();
-    } 
+    }
 }
